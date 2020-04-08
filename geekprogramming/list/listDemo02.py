@@ -8,3 +8,5 @@ print(list2)
 list3=[10,20,30]
 list.insert(2,100)
 print(list)
+list.remove(2,100)
+print(list)
